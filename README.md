@@ -1,6 +1,8 @@
 # flutter_app_completo
 
-Este tutorial tomou como base (transcreveu) o material contido nesta playlist [https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s], onde a implementação da aplicação ocorre do vídeo 4 em diante. 
+Este tutorial tomou como base (transcreveu/adaptou) o material contido nesta playlist [https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s], onde a implementação da aplicação ocorre do vídeo 4 em diante. 
+
+Este código faz a gerência de estado com MobX!
 
 A aplicação possui um módulo para buscar usuários do GitHub, cujo processo de implementação ocorre respeitando a arquitetura sugerida e TDD. 
 
